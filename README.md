@@ -1,0 +1,2 @@
+# collection_deck_ja
+CIAのカードゲームを日本語化しようプロジェクト
